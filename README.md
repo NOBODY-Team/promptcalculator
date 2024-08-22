@@ -1,5 +1,5 @@
 # alldo-cmd
 Ultraminimalistic multi-use command prompt software.
 
-Test version available in releases page:
+Test version available on [Releases -page](https://github.com/NOBODY-Team/alldo-cmd/releases/tag/Experimental)
 # Source code available soon.
