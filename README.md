@@ -7,6 +7,13 @@ PromptCalculator is in constant development, and we would love to hear your feed
 
 ![{701B7182-5D2D-450E-BEC8-13720B588878}](https://github.com/user-attachments/assets/39baf561-0ec5-4abc-9259-973f9c328635)
 
+# Installation
+## [Direct Install (Github)](https://github.com/NOBODY-Team/promptcalculator/releases/download/V1/PromptCalculator.zip)
+## [Github (Releases Page)](https://github.com/NOBODY-Team/promptcalculator/releases/tag/V1)
+## [Source](https://nobodyteam.com/promptcalculator/#source)
+
+## Video Showcase
+
 # Functionality
 
 # General
@@ -45,3 +52,7 @@ PromptCalculator is in constant development, and we would love to hear your feed
 | `/pi/` | Value of pi | `/pi/ * 2 / 3` would output `2.09`. |
 | `/squarerootof[number]` | Squareroot of the number defined | `/squarerootof100` would output the squareroot of 100; 10. |
 | `/cubeerootof[number]` | Cuberoot of the number defined | `/cuberootof-1000` would output the cuberoot of -1000; -10. |
+
+# Source
+
+## Source
