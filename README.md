@@ -16,6 +16,10 @@ PromptCalculator is in constant development, and we would love to hear your feed
 
 {% include youtube.html id="7inYxAwPpI4" %}
 
+# Education
+
+In case any educational facility wishes to utilize PromptCalculator, we will gladly take suggestions on functionality that would be required, and provide tech support for any endeavours related to integrating PromptCalculator into any facility systems, all for free. NOBODY wholeheartedly believes that education should be easy and free. For inquiries relating to this, contact [education@nobodyteam.com](mailto:education@nobodyteam.com).
+
 # Functionality
 
 # General
