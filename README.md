@@ -54,5 +54,3 @@ PromptCalculator is in constant development, and we would love to hear your feed
 | `/cubeerootof[number]` | Cuberoot of the number defined | `/cuberootof-1000` would output the cuberoot of -1000; -10. |
 
 # Source
-
-## Source
