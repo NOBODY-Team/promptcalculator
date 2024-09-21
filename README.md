@@ -26,3 +26,10 @@ PromptCalculator is in constant development, and we would love to hear your feed
 | `/exponent/ or ** or ^` | Exponentiation | `2 /exponent/ 2` or `2 ** 2` or `2 ^ 2` |
 
 ### Advanced
+
+| Command | Explanation | Example |
+| --- | --- | --- |
+| `/accuracy[number]` | Sets the output's decimal accuracy. Default is 2. | `2.23274382 * 3 /accuracy6` outputs the operation with six decimals. |
+| `/pi/` | Value of pi | `/pi/ * 2 / 3` outputs `2.09` |
+| `/squarerootof[number]` | Squareroot of the number defined | `/squarerootof100` outputs the squareroot of 100; 10 |
+| `/cubeerootof[number]` | Cuberoot of the number defined | `/cuberootof-1000` outputs the cuberoot of -1000; -10 |
