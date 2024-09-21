@@ -14,7 +14,7 @@ PromptCalculator is in constant development, and we would love to hear your feed
 
 # Video Showcase
 
-![Showcase](https://youtu.be/7inYxAwPpI4?si=4TuArR0Mg1OrYHcL)
+[Showcase](https://youtu.be/7inYxAwPpI4?si=4TuArR0Mg1OrYHcL)
 
 # Functionality
 
