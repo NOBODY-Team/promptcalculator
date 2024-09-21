@@ -16,7 +16,7 @@ PromptCalculator is in constant development, and we would love to hear your feed
 
 ### Basic
 
-| Command | | Explanation | Example |
+| Command | Explanation | Example |
 | --- | --- | --- |
 | `ref` | Reference to the result of the previous submitted operation | `/ref/ * 2 = 4` (if previous operation was `1 + 1`) |
 | `/plus/ or +` | Addition | `2 /plus/ 2` or `2 + 2` |
