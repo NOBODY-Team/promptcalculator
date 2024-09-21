@@ -1,5 +1,6 @@
-# PromptCalculator
-Ultraminimalistic command based calculator. (Formely known as Alldo CMD)
+# [directory](https://nobodyteam.com)
 
-Test version available on [Releases -page](https://github.com/NOBODY-Team/alldo-cmd/releases/tag/Experimental)
-# Source code available soon.
+![{701B7182-5D2D-450E-BEC8-13720B588878}](https://github.com/user-attachments/assets/39baf561-0ec5-4abc-9259-973f9c328635)
+
+# PromptCalculator
+Is an ultraminimalistic open-source command based calculator.
