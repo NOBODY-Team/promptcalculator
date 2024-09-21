@@ -102,7 +102,6 @@ The current release was more specifically developed with Unity 6000.0.12f1 and t
 - Non-mathematical commands will be displayed as an invalid calculation in the predictive output field
 - Maximum operational range is not high enough
 - Formatting may be too confusing
-- Auto-scrolling functionality does not work, thus making the clear command a requirement for long sessions
 ```
 
 ## Feedback Email
