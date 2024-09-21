@@ -12,7 +12,9 @@ PromptCalculator is in constant development, and we would love to hear your feed
 ## [Github (Releases Page)](https://github.com/NOBODY-Team/promptcalculator/releases/tag/V1)
 ## [Source](https://nobodyteam.com/promptcalculator/#source-1)
 
-## Video Showcase
+# Video Showcase
+
+![Showcase](https://youtu.be/7inYxAwPpI4?si=4TuArR0Mg1OrYHcL)
 
 # Functionality
 
