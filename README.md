@@ -15,8 +15,8 @@ PromptCalculator is in constant development, and we would love to hear your feed
 
 ## Current Version: V2
 
-## [Direct Install (Github)](https://github.com/NOBODY-Team/promptcalculator/releases/download/V1/PromptCalculator.zip)
-## [Github (Releases Page)](https://github.com/NOBODY-Team/promptcalculator/releases/tag/V1)
+## [Direct Install (Github)](https://github.com/NOBODY-Team/promptcalculator/releases/download/V2/PromptCalculator.zip)
+## [Github (Releases Page)](https://github.com/NOBODY-Team/promptcalculator/releases/tag/V2)
 ## [Source](https://nobodyteam.com/promptcalculator/#source-1)
 
 ## Changelog
@@ -80,9 +80,9 @@ The current release was more specifically developed with Unity 6000.0.12f1 and t
 
 ## Source Install
 
-### [Github (Releases Page)](https://github.com/NOBODY-Team/promptcalculator/releases/tag/V1-Source)
+### [Github (Releases Page)](https://github.com/NOBODY-Team/promptcalculator/releases/tag/V2-Source)
 
-### [Direct Install (Github)](https://github.com/NOBODY-Team/promptcalculator/releases/download/V1-Source/PromptCalculatorSource.unitypackage)
+### [Direct Install (Github)](https://github.com/NOBODY-Team/promptcalculator/releases/download/V2-Source/PromptCalculatorSource.unitypackage)
 
 ## Installation Instructions
 
