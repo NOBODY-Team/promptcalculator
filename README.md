@@ -8,6 +8,15 @@ PromptCalculator is in constant development, and we would love to hear your feed
 
 # Functionality
 
+# General
+
+> Operational Range becomes higher each update
+
+| Functionality | Explanation | Example |
+| --- | --- | --- |
+| Operational Range | The current maximum operational range of PromptCalculator. | `999 * 10 ^ 305` is the current maximum |
+| Operation Submitting | The input that submits the current operation | Operations can be submitted by typing `=`, pressing `Enter` or by pressing `the left mouse button (Mouse0)` |
+
 # Commands
 
 ## Mathematical
