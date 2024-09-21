@@ -14,7 +14,7 @@ PromptCalculator is in constant development, and we would love to hear your feed
 
 # Video Showcase
 
-https://github.com/user-attachments/assets/a3551dd5-670a-46e3-9dc4-a4272af35401
+{% include youtube.html id="7inYxAwPpI4" %}
 
 # Functionality
 
