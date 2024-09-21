@@ -82,4 +82,24 @@ The current release was more specifically developed with Unity 6000.0.12f1 and t
 4. Create an empty project
 5. Drop the .unitypackage in the Assets folder
 
-# Documentation
+# Feedback & Issues
+
+## Issue List
+
+> This list goes through issues we are aware of.
+
+```
+- Non-mathematical commands will be displayed as an invalid calculation in the predictive output field
+- Maximum operational range is not high enough
+- Formatting may be too confusing
+- Auto-scrolling functionality does not work, thus making the clear command a requirement for long sessions
+```
+
+## Feedback Email
+
+### [All Contact Emails](https://nobodyteam.com/contact)
+
+### General Feedback: [feedback@nobodyteam.com](mailto:feedback@nobodyteam.com)
+
+### PromptCalculator: [promptcalculator@nobodyteam.com](mailto:promptcalculator@nobodyteam.com)
+
