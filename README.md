@@ -16,6 +16,8 @@ PromptCalculator is in constant development, and we would love to hear your feed
 | --- | --- | --- |
 | Operational Range | The current maximum operational range of PromptCalculator. | `999 * 10 ^ 305` is the current maximum |
 | Operation Submitting | The input that submits the current operation | Operations can be submitted by typing `=`, pressing `Enter` or by pressing `the left mouse button (Mouse0)` |
+| Scientific Formatting | High numbers will be output in the scientific format. | `999 * 10 ^ 305` would be output as `9.99E+307` |
+| Multinational Input Support | Both `Comma (,)` and `Dot (.)` are valid input methods. | Inputting `2.22 * 2` would be output as `4.44`, and inputting `2,22 * 2` would output as `4,44` |
 
 # Commands
 
