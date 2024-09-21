@@ -66,7 +66,7 @@ PromptCalculator is developed with [Unity](https://unity.com/), and by extension
 The current release was more specifically developed with Unity 6000.0.12f1 and the Built-in Render Pipeline.
 
 > [WARNING!]
-> The source code of the current version consists of a singular uberscript, CMD.cs, containing `407 lines`, and barely any comments, so understanding it may be slightly hard. We are aiming to expand the source with comments in future versions.
+> The source code of the current version consists of a singular uberscript, CMD.cs, containing `405 lines`, and barely any comments, so understanding it may be slightly hard. We are aiming to expand the source with comments in future versions.
 
 ## Source Install
 
