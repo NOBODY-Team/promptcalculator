@@ -1,5 +1,6 @@
 # [directory](https://nobodyteam.com
 
+
 # PromptCalculator
 Is an ultraminimalistic open-source command based calculator.
 
