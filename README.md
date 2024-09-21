@@ -60,3 +60,26 @@ In case any educational facility wishes to utilize PromptCalculator, we will gla
 | `/cubeerootof[number]` | Cuberoot of the number defined | `/cuberootof-1000` would output the cuberoot of -1000; -10. |
 
 # Source
+
+PromptCalculator is developed with [Unity](https://unity.com/), and by extension, C#. 
+
+The current release was more specifically developed with Unity 6000.0.12f1 and the Built-in Render Pipeline.
+
+> [WARNING!]
+> The source code of the current version consists of a singular uberscript, CMD.cs, containing `407 lines`, and barely any comments, so understanding it may be slightly hard. We are aiming to expand the source with comments in future versions.
+
+## Source Install
+
+### [Github (Releases Page)](https://github.com/NOBODY-Team/promptcalculator/releases/tag/V1-Source)
+
+### [Direct Install (Github)](https://github.com/NOBODY-Team/promptcalculator/releases/download/V1-Source/PromptCalculatorSource.unitypackage)
+
+## Installation Instructions
+
+1. Install the .unitypackage from either of the above links
+2. Install any Unity 6 version
+3. Install the Built-in Render Pipeline
+4. Create an empty project
+5. Drop the .unitypackage in the Assets folder
+
+# Documentation
