@@ -7,14 +7,24 @@ PromptCalculator is in constant development, and we would love to hear your feed
 
 ![{701B7182-5D2D-450E-BEC8-13720B588878}](https://github.com/user-attachments/assets/39baf561-0ec5-4abc-9259-973f9c328635)
 
+# Video Showcase
+
+{% include youtube.html id="7inYxAwPpI4" %}
+
 # Installation
+
+## Current Version: V2
+
 ## [Direct Install (Github)](https://github.com/NOBODY-Team/promptcalculator/releases/download/V1/PromptCalculator.zip)
 ## [Github (Releases Page)](https://github.com/NOBODY-Team/promptcalculator/releases/tag/V1)
 ## [Source](https://nobodyteam.com/promptcalculator/#source-1)
 
-# Video Showcase
+## Changelog
 
-{% include youtube.html id="7inYxAwPpI4" %}
+```
+[V2] - Fixed the output not being automatically cleared due to a line calculation error.
+```
+
 
 # Education
 
