@@ -10,7 +10,7 @@ PromptCalculator is in constant development, and we would love to hear your feed
 # Installation
 ## [Direct Install (Github)](https://github.com/NOBODY-Team/promptcalculator/releases/download/V1/PromptCalculator.zip)
 ## [Github (Releases Page)](https://github.com/NOBODY-Team/promptcalculator/releases/tag/V1)
-## [Source](https://nobodyteam.com/promptcalculator/#source)
+## [Source](https://nobodyteam.com/promptcalculator/#source-1)
 
 ## Video Showcase
 
