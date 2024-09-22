@@ -99,6 +99,7 @@ The current release was more specifically developed with Unity 6000.0.12f1 and t
 > This list goes through issues we are aware of.
 
 ```
+- Windows regional format somehow affects the functionality, despite this supposedly being completely impossible. In case you have the Finnish regional format, /pi/ may be invalid and /pii/ may be the only option, and European regional formats may be forced to comma automatically. This is not intended, and will be fixed in V3.
 - Non-mathematical commands will be displayed as an invalid calculation in the predictive output field
 - Maximum operational range is not high enough
 - Formatting may be too confusing
