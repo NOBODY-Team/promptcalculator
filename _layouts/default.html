@@ -143,7 +143,7 @@
         {{ content }}
         {% if site.github.private != true and site.github.license %}
           <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-            PatternWriter is developed by <a href="https://nobodyteam.com">NOBODY Team</a>.
+            PromptCalculator is developed by <a href="https://nobodyteam.com">NOBODY Team</a>.
           </div>
         {% endif %}
       </div>
@@ -172,7 +172,6 @@
       });
 
       const searchInput = document.getElementById('search');
-      const searchInfo = document.getElementById('search-info');
       const results = [];
       let currentIndex = -1;
 
@@ -180,22 +179,18 @@
         const searchTerm = searchInput.value.toLowerCase();
         const matches = document.querySelectorAll('.markdown-body *');
         results.length = 0;
+
         matches.forEach(match => {
-          if (match.textContent.toLowerCase().includes(searchTerm)) {
+          match.style.backgroundColor = '';
+          if (match.textContent.toLowerCase().includes(searchTerm) && searchTerm.trim() !== '') {
             match.style.backgroundColor = 'rgba(255, 255, 0, 0.5)';
             results.push(match);
-          } else {
-            match.style.backgroundColor = '';
           }
         });
+
         currentIndex = results.length ? 0 : -1;
-        searchInfo.textContent = currentIndex >= 0 ? `${currentIndex + 1}/${results.length}` : '';
         if (currentIndex >= 0) {
           results[currentIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
-        } else {
-          matches.forEach(match => {
-            match.style.backgroundColor = '';
-          });
         }
       });
     </script>
