@@ -81,6 +81,15 @@
         box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.1), inset -2px -2px 5px rgba(255, 255, 255, 0.1);
       }
 
+      .alert {
+        background-color: #444;
+        color: white;
+        padding: 10px;
+        border-radius: 8px;
+        margin: 15px 0;
+        border-left: 5px solid #ffcc00;
+      }
+
       .hidden {
         opacity: 0;
         transition: opacity 0.5s ease-in-out;
@@ -133,7 +142,7 @@
         {{ content }}
         {% if site.github.private != true and site.github.license %}
           <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-            PromptCalculator is developed by <a href="https://nobodyteam.com">NOBODY Team</a>.
+            PatternWriter is developed by <a href="https://nobodyteam.com">NOBODY Team</a>.
           </div>
         {% endif %}
       </div>
