@@ -24,6 +24,7 @@
         margin: 50px;
         border-radius: 10px;
         box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5), inset 1px 1px 6px rgba(255, 255, 255, 0.1);
+        text-align: center;
       }
 
       .navbar {
@@ -191,6 +192,10 @@
         searchInfo.textContent = currentIndex >= 0 ? `${currentIndex + 1}/${results.length}` : '';
         if (currentIndex >= 0) {
           results[currentIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
+        } else {
+          matches.forEach(match => {
+            match.style.backgroundColor = '';
+          });
         }
       });
     </script>
